@@ -3,3 +3,5 @@ git remote add origin 项目路径
 git remote 远程仓库设置; 设置成  add  名字叫做 origin（代表项目路径） 项目路径
 
 git push -u origin master 本地仓库推送至远端仓库
+
+all right
